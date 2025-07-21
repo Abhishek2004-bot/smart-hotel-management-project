@@ -102,20 +102,19 @@ Open XAMPP, start Apache & MySQL.
 
 Visit: http://localhost/hotelprj/                                                                   
 
+## 🎥 Hotel Management Project Demo Video  
+[📺 Click here to watch on Google Drive](https://drive.google.com/file/d/1AHWtdymcT9PqW6hNbS7A05DVCtWzDUv/view?usp=sharing)
 
+
+[🔗 GitHub Profile - Abhishek S L](https://github.com/Abhishek2004-bot)
 ```
 
-## 🔗 Links
-https://github.com/Abhishek2004-bot
-
-## Demo
 
 🦸‍♂️ Authors
 Abhishek S L 
 
 
-## 🔗 Links
-https://github.com/Abhishek2004-bot
+
 
 
 
