@@ -105,21 +105,19 @@ Visit: http://localhost/hotelprj/
 
 ```
 
-## 🔗 Links
-https://github.com/Abhishek2004-bot
 
-## Hotel Management Project Demo Video
-[Click here to watch]
-(https://drive.google.com/file/d/1AHWIdymcTjPNqN6NhN57Z4QSbVCtwzDU/view?usp=sharing)
+## 🎥 Hotel Management Project Demo Video  
+[📺 Click here to watch on Google Drive](https://drive.google.com/file/d/1AHWtdymcT9PqW6hNbS7A05DVCtWzDUv/view?usp=sharing)
 
 🦸‍♂️ Authors
 Abhishek S L 
 
 
-## 🔗 Links
-https://github.com/Abhishek2004-bot
+[🔗 GitHub Profile - Abhishek S L](https://github.com/Abhishek2004-bot)
 
 
+🦸‍♂️ Authors
+Abhishek S L 
 
 
 
