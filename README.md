@@ -112,7 +112,8 @@ Visit: http://localhost/hotelprj/
 
 
 
-**🦸‍♂️ Authors:**Abhishek S L 
+##🦸‍♂️ Author
+**Abhishek S L **
 
 
 
