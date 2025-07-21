@@ -110,10 +110,9 @@ Visit: http://localhost/hotelprj/
 ```
 
 
+
 🦸‍♂️ Authors
 Abhishek S L 
-
-
 
 
 
